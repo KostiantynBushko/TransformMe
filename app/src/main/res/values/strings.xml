@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TransformMe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="background">#01DFA5</color>
+</resources>
